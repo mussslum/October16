@@ -13,8 +13,5 @@ public class Node {
         this.data =data;
         this.nextNode=null;
     }
-    private void test(){
-        System.out.println("sadas");
-    }
 
 }
