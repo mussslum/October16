@@ -6,6 +6,6 @@ public class Bird {
     }
     public void fly(){
         System.out.println("Bird can fly");
-        //bird can fl
+        //bird can fly
     }
 }
