@@ -4,6 +4,6 @@ package org.example.model;
 public class Common {
 
     public void test(){
-        System.out.println("Common salam");
+        System.out.println("Common salam dev");
     }
 }
